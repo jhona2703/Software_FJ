@@ -1,0 +1,208 @@
+2026-11-22 08:52:18,622 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 08:52:18,624 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 08:52:18,624 - ERROR - Registro invalido de cliente: El nombre del cliente no puede estar vacio.
+2026-11-22 08:52:18,624 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 08:52:18,624 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 08:52:18,624 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 08:52:18,624 - ERROR - Servicio invalido: El precio base debe ser mayor que cero.
+2026-11-22 08:52:18,624 - INFO - Reserva creada correctamente: R001
+2026-11-22 08:52:18,625 - INFO - Reserva R001 confirmada.
+2026-11-22 08:52:18,625 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 08:52:18,627 - ERROR - Reserva invalida: No fue posible completar la creacion de la reserva.
+2026-11-22 08:52:18,628 - INFO - Calculo de costo realizado correctamente.
+2026-11-22 08:52:18,628 - INFO - Reserva R001 cancelada.
+2026-11-22 08:52:18,628 - INFO - Fin de la ejecucion del sistema.
+2026-11-22 08:53:10,834 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 08:53:10,834 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 08:53:10,834 - ERROR - Registro invalido de cliente: El nombre del cliente no puede estar vacio.
+2026-11-22 08:53:10,835 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 08:53:10,835 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 08:53:10,835 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 08:53:10,835 - ERROR - Servicio invalido: El precio base debe ser mayor que cero.
+2026-11-22 08:53:10,835 - INFO - Reserva creada correctamente: R001
+2026-11-22 08:53:10,835 - INFO - Reserva R001 confirmada.
+2026-11-22 08:53:10,835 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 08:53:10,836 - ERROR - Reserva invalida: No fue posible completar la creacion de la reserva.
+2026-11-22 08:53:10,836 - INFO - Calculo de costo realizado correctamente.
+2026-11-22 08:53:10,836 - INFO - Reserva R001 cancelada.
+2026-11-22 08:53:10,837 - INFO - Fin de la ejecucion del sistema.
+2026-11-22 08:56:22,659 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 08:56:22,661 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 08:56:22,662 - ERROR - Registro invalido de cliente: El nombre del cliente no puede estar vacio.
+2026-11-22 08:56:22,663 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 08:56:22,666 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 08:56:22,675 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 08:56:22,679 - ERROR - Servicio invalido: El precio base debe ser mayor que cero.
+2026-11-22 08:56:22,680 - INFO - Reserva creada correctamente: R001
+2026-11-22 08:56:22,681 - INFO - Reserva R001 confirmada.
+2026-11-22 08:56:22,682 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 08:56:22,682 - ERROR - Reserva invalida: No fue posible completar la creacion de la reserva.
+2026-11-22 08:56:22,687 - INFO - Calculo de costo realizado correctamente.
+2026-11-22 08:56:22,688 - INFO - Reserva R001 cancelada.
+2026-11-22 08:56:22,709 - INFO - Fin de la ejecucion del sistema.
+2026-11-22 09:05:24,059 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:05:24,060 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:05:24,060 - ERROR - Registro invalido de cliente: El nombre del cliente no puede estar vacio.
+2026-11-22 09:05:24,061 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:05:24,061 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:05:24,061 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:05:24,061 - ERROR - Servicio invalido: El precio base debe ser mayor que cero.
+2026-11-22 09:05:24,062 - INFO - Reserva creada correctamente: R001
+2026-11-22 09:05:24,062 - INFO - Reserva R001 confirmada.
+2026-11-22 09:05:24,062 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:05:24,062 - ERROR - Reserva invalida: No fue posible completar la creacion de la reserva.
+2026-11-22 09:05:24,063 - INFO - Calculo de costo realizado correctamente.
+2026-11-22 09:05:24,065 - INFO - Reserva R001 cancelada.
+2026-11-22 09:05:24,080 - INFO - Polimorfismo ejecutado para servicio: Sala de reuniones
+2026-11-22 09:05:24,093 - INFO - Polimorfismo ejecutado para servicio: Alquiler de computador
+2026-11-22 09:05:24,094 - INFO - Polimorfismo ejecutado para servicio: Asesoria informatica
+2026-11-22 09:05:24,095 - INFO - Fin de la ejecucion del sistema.
+2026-11-22 09:09:14,346 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:09:14,347 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:09:14,347 - ERROR - Registro invalido de cliente: El nombre del cliente no puede estar vacio.
+2026-11-22 09:09:14,347 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:09:14,348 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:09:14,348 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:09:14,348 - ERROR - Servicio invalido: El precio base debe ser mayor que cero.
+2026-11-22 09:09:14,348 - INFO - Reserva creada correctamente: R001
+2026-11-22 09:09:14,349 - INFO - Reserva R001 confirmada.
+2026-11-22 09:09:14,349 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:09:14,349 - ERROR - Reserva invalida: No fue posible completar la creacion de la reserva.
+2026-11-22 09:09:14,349 - INFO - Calculo de costo realizado correctamente.
+2026-11-22 09:09:14,350 - INFO - Reserva R001 cancelada.
+2026-11-22 09:09:14,350 - INFO - Polimorfismo ejecutado para servicio: Sala de reuniones
+2026-11-22 09:09:14,351 - INFO - Polimorfismo ejecutado para servicio: Alquiler de computador
+2026-11-22 09:09:14,351 - INFO - Polimorfismo ejecutado para servicio: Asesoria informatica
+2026-11-22 09:09:14,355 - INFO - Fin de la ejecucion del sistema.
+2026-11-22 09:11:31,495 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:11:31,496 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:11:31,496 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:11:31,496 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:11:31,497 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:11:31,497 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:11:31,497 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:11:31,497 - INFO - Reserva creada: R001
+2026-11-22 09:11:31,497 - INFO - Reserva R001 confirmada.
+2026-11-22 09:11:31,498 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:11:31,498 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:11:31,498 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:11:31,499 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:11:31,499 - INFO - Reserva R001 cancelada.
+2026-11-22 09:11:31,500 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:11:31,501 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:11:31,503 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:11:31,505 - INFO - Ejecucion del sistema Software FJ finalizada.
+2026-11-22 09:12:50,540 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:12:50,540 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:12:50,541 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:12:50,541 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:12:50,541 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:12:50,541 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:12:50,541 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:12:50,542 - INFO - Reserva creada: R001
+2026-11-22 09:12:50,542 - INFO - Reserva R001 confirmada.
+2026-11-22 09:12:50,542 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:12:50,542 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:12:50,542 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:12:50,543 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:12:50,543 - INFO - Reserva R001 cancelada.
+2026-11-22 09:12:50,547 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:12:50,552 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:12:50,553 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:12:50,554 - INFO - Ejecucion del sistema Software FJ finalizada.
+2026-11-22 09:14:23,252 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:14:23,252 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:14:23,253 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:14:23,253 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:14:23,253 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:14:23,253 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:14:23,253 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:14:23,253 - INFO - Reserva creada: R001
+2026-11-22 09:14:23,254 - INFO - Reserva R001 confirmada.
+2026-11-22 09:14:23,254 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:14:23,254 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:14:23,254 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:14:23,255 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:14:23,255 - INFO - Reserva R001 cancelada.
+2026-11-22 09:14:23,255 - ERROR - Prueba de confirmacion repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-22 09:14:23,255 - ERROR - Prueba de cancelacion repetida: La reserva ya se encuentra cancelada.
+2026-11-22 09:14:23,256 - ERROR - Prueba de cantidad invalida: La cantidad debe ser un numero mayor que cero.
+2026-11-22 09:14:23,256 - ERROR - Prueba de impuesto invalido: El impuesto debe estar entre 0 y 1.
+2026-11-22 09:14:23,256 - ERROR - Prueba de descuento invalido: El descuento debe estar entre 0 y 1.
+2026-11-22 09:14:23,256 - INFO - Pruebas adicionales de validaciones finalizadas.
+2026-11-22 09:14:23,258 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:14:23,259 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:14:23,261 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:14:23,262 - INFO - Ejecucion del sistema Software FJ finalizada.
+2026-11-22 09:16:55,287 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:16:55,287 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:16:55,288 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:16:55,288 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:16:55,288 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:16:55,288 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:16:55,288 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:16:55,288 - INFO - Reserva creada: R001
+2026-11-22 09:16:55,289 - INFO - Reserva R001 confirmada.
+2026-11-22 09:16:55,289 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:16:55,289 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:16:55,289 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:16:55,290 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:16:55,290 - INFO - Reserva R001 cancelada.
+2026-11-22 09:16:55,291 - ERROR - Prueba de confirmacion repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-22 09:16:55,291 - ERROR - Prueba de cancelacion repetida: La reserva ya se encuentra cancelada.
+2026-11-22 09:16:55,292 - ERROR - Prueba de cantidad invalida: La cantidad debe ser un numero mayor que cero.
+2026-11-22 09:16:55,293 - ERROR - Prueba de impuesto invalido: El impuesto debe estar entre 0 y 1.
+2026-11-22 09:16:55,293 - ERROR - Prueba de descuento invalido: El descuento debe estar entre 0 y 1.
+2026-11-22 09:16:55,295 - INFO - Pruebas adicionales de validaciones finalizadas.
+2026-11-22 09:16:55,298 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:16:55,304 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:16:55,305 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:16:55,306 - INFO - Ejecucion del sistema Software FJ finalizada.
+2026-11-22 09:21:57,983 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:21:57,983 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:21:57,984 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:21:57,984 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:21:57,984 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:21:57,984 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:21:57,984 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:21:57,985 - INFO - Reserva creada: R001
+2026-11-22 09:21:57,985 - INFO - Reserva R001 confirmada.
+2026-11-22 09:21:57,985 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:21:57,985 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:21:57,985 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:21:57,986 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:21:57,986 - INFO - Reserva R001 cancelada.
+2026-11-22 09:21:57,986 - ERROR - Prueba de confirmacion repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-22 09:21:57,987 - ERROR - Prueba de cancelacion repetida: La reserva ya se encuentra cancelada.
+2026-11-22 09:21:57,987 - ERROR - Prueba de cantidad invalida: La cantidad debe ser un numero mayor que cero.
+2026-11-22 09:21:57,987 - ERROR - Prueba de impuesto invalido: El impuesto debe estar entre 0 y 1.
+2026-11-22 09:21:57,987 - ERROR - Prueba de descuento invalido: El descuento debe estar entre 0 y 1.
+2026-11-22 09:21:57,987 - INFO - Pruebas adicionales de validaciones finalizadas.
+2026-11-22 09:21:57,993 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:21:57,994 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:21:57,994 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:21:57,995 - INFO - Ejecucion del sistema Software FJ finalizada.
+2026-11-22 09:36:46,757 - INFO - Cliente registrado: Laura Gomez
+2026-11-22 09:36:46,770 - INFO - Cliente registrado: Carlos Perez
+2026-11-22 09:36:46,770 - ERROR - Cliente invalido detectado: El nombre del cliente no puede estar vacio.
+2026-11-22 09:36:46,770 - INFO - Servicio registrado: Sala de reuniones
+2026-11-22 09:36:46,773 - INFO - Servicio registrado: Alquiler de computador
+2026-11-22 09:36:46,781 - INFO - Servicio registrado: Asesoria informatica
+2026-11-22 09:36:46,783 - ERROR - Servicio invalido detectado: El precio base debe ser mayor que cero.
+2026-11-22 09:36:46,787 - INFO - Reserva creada: R001
+2026-11-22 09:36:46,790 - INFO - Reserva R001 confirmada.
+2026-11-22 09:36:46,790 - ERROR - Error al crear reserva: La cantidad debe ser mayor que cero.
+2026-11-22 09:36:46,792 - ERROR - Reserva invalida detectada: No fue posible completar la creacion de la reserva.
+2026-11-22 09:36:46,808 - INFO - Total calculado para sala: $109,000.00
+2026-11-22 09:36:46,814 - INFO - Demostracion de parametros opcionales realizada.
+2026-11-22 09:36:46,819 - INFO - Reserva R001 cancelada.
+2026-11-22 09:36:46,833 - ERROR - Prueba de confirmacion repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-22 09:36:46,836 - ERROR - Prueba de cancelacion repetida: La reserva ya se encuentra cancelada.
+2026-11-22 09:36:46,837 - ERROR - Prueba de cantidad invalida: La cantidad debe ser un numero mayor que cero.
+2026-11-22 09:36:46,839 - ERROR - Prueba de impuesto invalido: El impuesto debe estar entre 0 y 1.
+2026-11-22 09:36:46,839 - ERROR - Prueba de descuento invalido: El descuento debe estar entre 0 y 1.
+2026-11-22 09:36:46,839 - INFO - Pruebas adicionales de validaciones finalizadas.
+2026-11-22 09:36:46,857 - INFO - Polimorfismo aplicado al servicio: Sala de reuniones
+2026-11-22 09:36:46,867 - INFO - Polimorfismo aplicado al servicio: Alquiler de computador
+2026-11-22 09:36:46,870 - INFO - Polimorfismo aplicado al servicio: Asesoria informatica
+2026-11-22 09:36:46,877 - INFO - Ejecucion del sistema Software FJ finalizada.
